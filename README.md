@@ -1,6 +1,7 @@
 # Hi there, I'm Yehia Sherif! 👋 
 ### Data Analysis Specialist | Mechanical Engineer | Freelancer
 ## About
+![Logo](images/image.jpg)
 I am a **Mechanical Design Engineer** who decided to leverage my analytical mindset and precision in the world of **Data Analysis**. Over the past years, I have dedicated myself to mastering the tools that transform raw data into strategic business decisions. 
 
 My engineering background gives me a unique edge: I don't just look at numbers; I understand the mechanics of how systems work and how to optimize them. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
