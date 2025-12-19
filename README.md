@@ -6,7 +6,7 @@ I am a **Mechanical Design Engineer** who decided to leverage my analytical mind
 My engineering background gives me a unique edge: I don't just look at numbers; I understand the mechanics of how systems work and how to optimize them. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
-![image](/assets/BackgfoundBoxOffice (1).webp)
+![images](images/BackgfoundBoxOffice (1).webp)
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
