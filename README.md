@@ -1,11 +1,28 @@
 # Hi there, I'm Yehia Sherif! 👋 
-### 🛠️ Mechanical Engineer | Data Analysis Specialist | Freelancer
+### Data Analysis Specialist | Mechanical Engineer | Freelancer
 ## About
 I am a **Mechanical Design Engineer** who decided to leverage my analytical mindset and precision in the world of **Data Analysis**. Over the past years, I have dedicated myself to mastering the tools that transform raw data into strategic business decisions. 
 
 My engineering background gives me a unique edge: I don't just look at numbers; I understand the mechanics of how systems work and how to optimize them. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+
+## Table of Contents
+- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+  - SQL
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+  - R
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Power BI
+  
+
 
 My CV in [pdf](https://github.com).
 
